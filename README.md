@@ -47,8 +47,11 @@ Here is an example of a JSON response for an invalid password:
 To install and run the application, follow the steps below:
 
 1 - Clone the project repository to your local machine.
+
 2 - Open the terminal and navigate to the root directory of the project.
+
 3 - Run the command ./mvnw spring-boot:run to start the application.
+
 4 - Use an HTTP testing tool, such as Postman, to send requests to the application.
 
 ## Conclusion
